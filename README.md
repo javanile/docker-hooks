@@ -1,4 +1,4 @@
-# [Docker Hooks](http://githooks.com)
+# [Docker Hooks](https://dockerhooks.javanile.org)
 
 A guide to the wonders of Docker Hooks. This repo is using [GitHub Pages](https://pages.github.com/).
 
