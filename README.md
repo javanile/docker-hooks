@@ -2,7 +2,7 @@
 
 A guide to the wonders of Docker Hooks. This repo is using [GitHub Pages](https://pages.github.com/).
 
-## Contributing to `Docker Hooks`
+## Contributing to Docker Hooks
 
 :+1::tada: First off, thanks for taking the time to contribute! :tada::+1:
 
