@@ -1,4 +1,4 @@
-Git Hooks | 
+# Docker Hooks
 
 Learn how to use pre-commit hooks, post-commit hooks, post-receive hooks, and more. | 
 
