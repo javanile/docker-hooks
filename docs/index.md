@@ -1,12 +1,16 @@
 # Docker Hooks
 
-Learn how to use pre-commit hooks, post-commit hooks, post-receive hooks, and more. | 
+Learn how to use Docker Hooks to extend your Docker Images
 
-Matthew Hudson 
+## What are Docker Hooks? 
 
-Git Hooks Open source on GitHub. 
+-
 
-Made with by Matthew Hudson What are Git hooks? 
+## Supported Docker Hooks
+
+- [before-entrypoint](hooks/before-entrypoint.md)
+
+## TLDR
 
 Git hooks are scripts that Git executes before or after events such as: commit, push, and receive. 
 
